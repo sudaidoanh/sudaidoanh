@@ -1,7 +1,7 @@
 # <p align="center">  Hi there 👋 </p>
 ### **Welcome to my page**  
 
-<b align="center"> I'm Doanh </b>
+<p align="center"><b> I'm Doanh </b></p>
 <p align="center"> 🌱 I’m currently learning how to walk in programming without falling on my bottom. </p>
 <p align="center"> 👯 Open to collaborating on interesting and innovative projects. </p>  
 <hr>
