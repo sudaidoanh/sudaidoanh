@@ -1,4 +1,4 @@
-# <p style="text-align:center">  Hi there 👋 </p> <hr>
+# <p style="text-align:center">  Hi there 👋 </p>
 ## <p style="text-align:center"> <b>Welcome to my page</b></p> 
 <p style="text-align:center"> I'm Doanh</p>
 <p style="text-align:center"> Currently learning how to walk in programming without falling on my bottom.
