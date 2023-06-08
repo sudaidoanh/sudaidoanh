@@ -1,4 +1,8 @@
-# Hi there 👋
+# <p style="text-align:center">  Hi there 👋 </p> <hr>
+## <p style="text-align:center"> <b>Welcome to my page</b></p> 
+<p style="text-align:center"> I'm Doanh</p>
+<p style="text-align:center"> Currently learning how to walk in programming without falling on my bottom.
+Open to collaborating on interesting and innovative projects.</p>
 
 <!--
 **sudaidoanh/sudaidoanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
